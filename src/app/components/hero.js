@@ -12,7 +12,8 @@ const Hero = () => {
         </div>
 
         <div className="hero__text">
-          Celebrate the Season with Narmada Wines
+          Celebrate the Season<br/>
+          with Narmada Wines
         </div>
 
         <div className="hero__button">
